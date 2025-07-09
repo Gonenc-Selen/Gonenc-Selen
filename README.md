@@ -18,7 +18,7 @@ Hello! I'm Selen, a Business Intelligence Engineer who loves creating data-drive
 * 📫 **Contact:**
 
   * 📧 [selengonenc@gmail.com](mailto:selengonenc@gmail.com)
-  * 🔗 [LinkedIn]([https://www.linkedin.com/in/selen-aras](https://www.linkedin.com/in/selen-g%C3%B6nen%C3%A7-aras-a2941b61/))
+
 
 ---
 
