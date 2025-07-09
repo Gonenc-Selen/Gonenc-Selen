@@ -60,16 +60,4 @@ Hello! I'm Selen, a Business Intelligence Engineer who loves creating data-drive
 * **Repo:** `multimodal-rag-system-with-colpali`
 ---
 
-## 📈 GitHub Stats
-
-![Selen’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=selen-aras\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selen-aras\&layout=compact\&theme=default)
-
----
-
-> "Data is the new oil. 🚀"
-
----
-
 Thanks for visiting! If you'd like a detailed plan for any project or more edits, feel free to reach out.
