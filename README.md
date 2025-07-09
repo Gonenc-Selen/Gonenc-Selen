@@ -15,9 +15,7 @@ Hello! I'm Selen, a Business Intelligence Engineer who loves creating data-drive
 * 💼 **Current Role:** Business Intelligence Engineer 
 * 🔭 **Interests:** Python, SQL, Power BI, OLAP, Data Warehousing, Machine Learning, RAG, Open Source
 * 🌱 **Learning:** Fine-tuning LLMs, Multimodal RAG
-* 📫 **Contact:**
-
-  * 📧 [selengonenc@gmail.com](mailto:selengonenc@gmail.com)
+* 📫 **Contact:** 📧 [selengonenc@gmail.com](mailto:selengonenc@gmail.com)
 
 
 ---
