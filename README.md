@@ -3,13 +3,13 @@
 
 # Selen Gönenç Aras
 
-🔹 **Industrial Engineer & BI/Data Enthusiast**
+**Industrial Engineer & BI/Data Enthusiast**
 
 Hello! I'm Selen, a Business Intelligence Engineer who loves creating data-driven solutions and optimizing business processes.
 
 ---
 
-## ⚡ About Me
+## About Me
 
 * **Education:** M.S. in Artificial Intelligence & Data Engineering at Hacettepe University (In Progress)
 * **Current Role:** Business Intelligence Engineer 
@@ -20,7 +20,7 @@ Hello! I'm Selen, a Business Intelligence Engineer who loves creating data-drive
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category                | Technologies                                            |
 | ----------------------- | ------------------------------------------------------- |
@@ -33,7 +33,7 @@ Hello! I'm Selen, a Business Intelligence Engineer who loves creating data-drive
 
 ---
 
-## 🚧 Featured Projects
+## Featured Projects
 
 ### 1. Financial Concepts Explainer Bot
 
