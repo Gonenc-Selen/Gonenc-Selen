@@ -11,11 +11,11 @@ Hello! I'm Selen, a Business Intelligence Engineer who loves creating data-drive
 
 ## ⚡ About Me
 
-* 🎓 **Education:** M.S. in Artificial Intelligence & Data Engineering at Hacettepe University (In Progress)
-* 💼 **Current Role:** Business Intelligence Engineer 
-* 🔭 **Interests:** Python, SQL, Power BI, OLAP, Data Warehousing, Machine Learning, RAG, Open Source
-* 🌱 **Learning:** Fine-tuning LLMs, Multimodal RAG
-* 📫 **Contact:** 📧 [selengonenc@gmail.com](mailto:selengonenc@gmail.com)
+* **Education:** M.S. in Artificial Intelligence & Data Engineering at Hacettepe University (In Progress)
+* **Current Role:** Business Intelligence Engineer 
+* **Interests:** Python, SQL, Power BI, OLAP, Data Warehousing, Machine Learning, RAG, Open Source
+* **Learning:** Fine-tuning LLMs, Multimodal RAG
+* **Contact:** 📧 [selengonenc@gmail.com](mailto:selengonenc@gmail.com)
 
 
 ---
