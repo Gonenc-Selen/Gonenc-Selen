@@ -41,19 +41,13 @@ Hello! I'm Selen, a Business Intelligence Engineer who loves creating data-drive
 * **Description:** A RAG-based chatbot that explains financial terms using reliable sources.
 * **Repo:** `financial-concepts-bot`
 
-### 2. Coin Detection & Classification
-
-* **Technologies:** OpenCV, Custom HoG, SVM, Python
-* **Description:** Detects and classifies coins using image processing and machine learning.
-* **Repo:** `coin-detector`
-
-### 3. Multimodal RAG System
+### 2. Multimodal RAG System
 
 * **Technologies:** Python, PyMuPDF, CLIP, Sentence-Transformers, Gradio
 * **Description:** Separates text and images from PDFs and produces RAG responses using multiple embedding methods.
 * **Repo:** `multimodal-rag-system`
 
-### 4. Multimodal RAG System with Colpali
+### 3. Multimodal RAG System with Colpali
 
 * **Technologies:** Python,Gemini, Colpali, Gradio
 * **Description:** Separates text and images from PDFs and produces RAG responses using multiple embedding methods.
